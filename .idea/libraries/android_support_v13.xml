@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-support-v13">
+    <CLASSES>
+      <root url="jar://C:/Program Files/adt-bundle-windows-x86_64-20131030/sdk/extras/android/support/v13/android-support-v13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
